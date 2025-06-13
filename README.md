@@ -27,6 +27,7 @@ The genesis block etched three ironclad vows:
 1. **Zero Admin** — laughter bows to no overlord.
 2. **Zero tax** — comedic flow remains frictionless.
 3. **Zero DAO** — bureaucracy can’t outrun memes.
+   
 Only one genesis, only one ledger. The echo is yours to shape.
 ---
 
