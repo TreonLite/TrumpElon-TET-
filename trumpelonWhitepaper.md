@@ -32,7 +32,7 @@ The TREON-Lite team closely reviews community posts and is committed to developi
 
 **7. Legal Disclaimer**
 Please read all information in this section carefully.
-Nothing in this document constitutes legal, financial, business, or tax advice, and you are with importance recommended to consult your own legal, financial, tax, or other professional advisors regarding any activities mentioned herein. The TrumpElon project, project team members, distributors, or any service provider shall not be held liable for any direct or indirect damage or loss arising from your access to this Whitepaper or any activity related to the TrumpElon token (\$TrumpElon).
+Nothing in this document constitutes legal, financial, business, or tax advice, and you are with importance recommended to consult your own legal, financial, tax, or other professional advisors regarding any activities mentioned herein. The TrumpElon project, project team members, distributors, or any service provider shall not be held liable for any direct or indirect damage or loss arising from your access to this Whitepaper or any activity related to the TrumpElon token (\$TET).
 
 The TrumpElon Token is intended to enable users to participate in meme token projects within the TREON-Lite ecosystem that lack ADMIN and DAO structures. During token distribution, the company and distributors act solely as third parties and are in no way financial advisors or agents.
 
