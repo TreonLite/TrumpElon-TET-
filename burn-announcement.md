@@ -38,3 +38,6 @@ Anyone can verify the burn via Etherscan.
 ---
 
 **No admin. No minting. No liquidity control. Only memes. Only fun.**
+
+TrumpElon Token is a purely community-created meme token intended for entertainment purposes only. It has no real-world value, utility, or promise of profit. This token is not an investment vehicle. By using it, you acknowledge the risks associated with cryptocurrencies.
+
